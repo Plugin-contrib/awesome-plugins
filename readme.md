@@ -18,6 +18,11 @@ A curated list of awesome pluggable projects and their plugins lists
 - [Gatsby](https://www.gatsbyjs.org/plugins/)
   - [Source Plugin](https://www.gatsbyjs.org/docs/creating-a-source-plugin/)
   - [Transformer Plugin](https://www.gatsbyjs.org/docs/creating-a-transformer-plugin/)
+- [Verdaccio](https://verdaccio.org/docs/en/plugins)
+  - Middleware Plugins
+  - Storage Plugins
+  - Auth Plugins
+  - Filter Plugins (experimental)
 - [Chaijs](https://www.chaijs.com/plugins/)
 - [Chartjs](https://www.chartjs.org/docs/latest/developers/plugins.html)
 - [Docsify](https://docsify.js.org/#/plugins)
@@ -48,6 +53,7 @@ A curated list of awesome pluggable projects and their plugins lists
 - [Assemble](http://assemble.io/plugins/)
 - [Intern](https://theintern.io/docs.html#Intern/4/docs/docs%2Fextending.md/the-plugin-mechanism)
 - [Reactioncommerce](https://docs.reactioncommerce.com/docs/community-resources)
+
 
 ## Contribute
 
